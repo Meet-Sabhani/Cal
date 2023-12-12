@@ -19,7 +19,7 @@ body{
 
 .container{
     background-color: #fff;
-    padding: 10px 10px 20px;
+    padding: 10px 20px 20px;
     border-radius: 10px;
 }
 .display{
@@ -28,6 +28,7 @@ body{
     text-align: right;
     border: none;
     outline: none;
+    padding: 10px;
 }
 .buttons{
     display: grid;
